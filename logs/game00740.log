@@ -1,0 +1,20 @@
+# Server version 0.08 running on 142.157.148.33:8123
+# Game ID: 740
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Sat Apr 05 18:13:48 PDT 2014
+# Player 1: Player-0, 's260401458', running on 142.157.148.33
+# Player 2: Player-1, 'random', running on 142.157.148.33
+# Player 3: Player-2, 'random', running on 142.157.148.33
+# Player 4: Player-3, 'random', running on 142.157.148.33
+START Player-0 s260401458
+START Player-1 random
+START Player-2 random
+START Player-3 random
+0 (2,2) (3,3)
+1 (12,1) (11,2)
+2 (2,13) (3,13)
+3 (14,12) (15,11)
+GAMEOVER TIMEOUT Player-0
+WINNER Player-1
+# Game ended: Sat Apr 05 18:13:50 PDT 2014

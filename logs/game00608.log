@@ -1,0 +1,19 @@
+# Server version 0.08 running on 142.157.148.33:8123
+# Game ID: 608
+# Board class: halma.CCBoard
+# Timeout: 100000
+# Date: Sat Apr 05 13:22:42 PDT 2014
+# Player 1: Player-0, 's260401458', running on 142.157.148.33
+# Player 2: Player-1, 's260401458', running on 142.157.148.33
+# Player 3: Player-2, 's260401458', running on 142.157.148.33
+# Player 4: Player-3, 'Human', running on 142.157.148.33
+START Player-0 s260401458
+START Player-1 s260401458
+START Player-2 s260401458
+START Player-3 Human
+0 (0,1) (2,3)
+0 null null
+1 (15,1) (13,3)
+1 null null
+2 (0,14) (2,12)
+2 null null

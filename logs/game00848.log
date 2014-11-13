@@ -1,0 +1,21 @@
+# Server version 0.08 running on George_y410p:8123
+# Game ID: 848
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Apr 10 21:56:37 PDT 2014
+# Player 1: Player-0, 's260401458', running on George_y410p
+# Player 2: Player-1, 'Human', running on George_y410p
+# Player 3: Player-2, 'sSingMovePlayer', running on George_y410p
+# Player 4: Player-3, 's260401458', running on George_y410p
+START Player-0 s260401458
+START Player-1 Human
+START Player-2 sSingMovePlayer
+START Player-3 s260401458
+0 (2,2) (3,3)
+1 (13,2) (12,3)
+2 (0,14) (2,12)
+2 null null
+3 (13,13) (12,13)
+0 (0,0) (2,2)
+0 (2,2) (4,4)
+0 null null

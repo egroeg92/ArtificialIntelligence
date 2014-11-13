@@ -1,0 +1,16 @@
+# Server version 0.08 running on George_y410p:8123
+# Game ID: 859
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Apr 10 22:30:01 PDT 2014
+# Player 1: Player-0, 's260401458', running on George_y410p
+# Player 2: Player-1, 's260401458', running on George_y410p
+# Player 3: Player-2, 's260401458', running on George_y410p
+# Player 4: Player-3, 's260401458', running on George_y410p
+START Player-0 s260401458
+START Player-1 s260401458
+START Player-2 s260401458
+START Player-3 s260401458
+GAMEOVER TIMEOUT Player-0
+WINNER Player-1
+# Game ended: Thu Apr 10 22:30:02 PDT 2014

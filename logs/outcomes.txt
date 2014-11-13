@@ -1,0 +1,268 @@
+495	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00495.log	
+496	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00496.log	
+497	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00497.log	
+498	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00498.log	
+499	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	110	game00499.log	
+500	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	113	game00500.log	
+501	sSingMovePlayer	Greedy	sSingMovePlayer	Greedy	Player-0	sSingMovePlayer	149	game00501.log	
+502	Greedy	sSingMovePlayer	sSingMovePlayer	Greedy	Player-1	sSingMovePlayer	98	game00502.log	
+503	Greedy	s260401458	sSingMovePlayer	Greedy	UNDECIDED	NOBODY	7	game00503.log	USER CANCEL
+505	Greedy	sSingMovePlayer	sSingMovePlayer	Greedy	Player-1	sSingMovePlayer	128	game00505.log	
+506	sSingMovePlayer	Greedy	Greedy	sSingMovePlayer	Player-0	sSingMovePlayer	126	game00506.log	
+507	Greedy	sSingMovePlayer	sSingMovePlayer	Greedy	Player-1	sSingMovePlayer	96	game00507.log	
+508	sSingMovePlayer	Greedy	Greedy	sSingMovePlayer	Player-0	sSingMovePlayer	152	game00508.log	
+509	sSingMovePlayer	Greedy	Greedy	sSingMovePlayer	Player-0	sSingMovePlayer	119	game00509.log	
+510	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	127	game00510.log	
+512	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00512.log	TIMEOUT Player-0
+514	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	107	game00514.log	
+515	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	165	game00515.log	
+516	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	138	game00516.log	
+517	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	129	game00517.log	
+518	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	119	game00518.log	
+519	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	122	game00519.log	
+520	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	168	game00520.log	
+524	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	136	game00524.log	
+525	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	136	game00525.log	
+526	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	138	game00526.log	
+527	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	130	game00527.log	
+528	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	257	game00528.log	
+529	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	129	game00529.log	
+530	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	111	game00530.log	
+531	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00531.log	TIMEOUT Player-0
+532	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	DRAW	NOBODY	5000	game00532.log	
+533	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Greedy	Player-1	sSingMovePlayer	116	game00533.log	
+534	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	210	game00534.log	
+535	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	124	game00535.log	
+536	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Greedy	Player-1	sSingMovePlayer	119	game00536.log	
+537	sSingMovePlayer	Greedy	Greedy	sSingMovePlayer	Player-1	Greedy	162	game00537.log	
+539	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	100	game00539.log	
+540	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	DRAW	NOBODY	5000	game00540.log	
+541	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	173	game00541.log	
+542	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00542.log	TIMEOUT Player-0
+543	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	120	game00543.log	
+544	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	116	game00544.log	
+545	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	DRAW	NOBODY	5000	game00545.log	
+546	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	125	game00546.log	
+548	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	126	game00548.log	
+547	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00547.log	TIMEOUT Player-0
+550	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00550.log	
+549	sSingMovePlayer	s260401458	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	0	game00549.log	TIMEOUT Player-1
+553	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	6	game00553.log	TIMEOUT Player-0
+557	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00557.log	
+558	Greedy	Greedy	Greedy	Greedy	DRAW	NOBODY	5000	game00558.log	
+560	s260401458	s260401458	s260401458	s260401458	UNDECIDED	NOBODY	0	game00560.log	USER CANCEL
+561	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	2	game00561.log	TIMEOUT Player-0
+563	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-1	sSingMovePlayer	0	game00563.log	TIMEOUT Player-0
+565	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-1	sSingMovePlayer	0	game00565.log	TIMEOUT Player-0
+566	s260401458	Human	Human	Human	Player-1	Human	0	game00566.log	TIMEOUT Player-0
+567	s260401458	Human	Human	Human	Player-1	Human	0	game00567.log	TIMEOUT Player-0
+568	s260401458	Human	Human	Human	Player-1	Human	0	game00568.log	TIMEOUT Player-0
+569	s260401458	Human	sSingMovePlayer	sSingMovePlayer	Player-1	Human	0	game00569.log	TIMEOUT Player-0
+570	s260401458	Human	Human	Human	Player-1	Human	0	game00570.log	TIMEOUT Player-0
+571	s260401458	Human	Human	Human	Player-1	Human	0	game00571.log	TIMEOUT Player-0
+572	s260401458	Human	Human	Human	Player-1	Human	0	game00572.log	TIMEOUT Player-0
+573	s260401458	Human	Human	Human	Player-1	Human	0	game00573.log	TIMEOUT Player-0
+574	s260401458	random	Human	Human	Player-1	random	0	game00574.log	TIMEOUT Player-0
+575	s260401458	Human	Human	Human	Player-1	Human	0	game00575.log	TIMEOUT Player-0
+576	s260401458	Human	Human	Human	Player-1	Human	0	game00576.log	TIMEOUT Player-0
+577	s260401458	Human	Human	Human	Player-1	Human	0	game00577.log	TIMEOUT Player-0
+578	s260401458	Human	Human	Human	Player-1	Human	0	game00578.log	TIMEOUT Player-0
+579	s260401458	Human	sSingMovePlayer	sSingMovePlayer	Player-1	Human	0	game00579.log	TIMEOUT Player-0
+580	s260401458	Human	Human	Human	Player-1	Human	0	game00580.log	TIMEOUT Player-0
+581	s260401458	Human	sSingMovePlayer	sSingMovePlayer	Player-1	Human	0	game00581.log	TIMEOUT Player-0
+582	s260401458	Human	Human	Human	Player-1	Human	0	game00582.log	TIMEOUT Player-0
+583	s260401458	Human	Human	Human	Player-1	Human	0	game00583.log	TIMEOUT Player-0
+585	s260401458	Human	Human	Human	Player-1	Human	0	game00585.log	TIMEOUT Player-0
+586	s260401458	Human	Human	Human	Player-1	Human	0	game00586.log	TIMEOUT Player-0
+587	s260401458	Human	Human	Human	Player-1	Human	0	game00587.log	TIMEOUT Player-0
+590	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-1	sSingMovePlayer	0	game00590.log	TIMEOUT Player-0
+591	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	2	game00591.log	TIMEOUT Player-0
+592	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	6	game00592.log	TIMEOUT Player-0
+593	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00593.log	TIMEOUT Player-1
+594	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00594.log	TIMEOUT Player-1
+595	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00595.log	TIMEOUT Player-0
+596	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00596.log	TIMEOUT Player-1
+597	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	13	game00597.log	TIMEOUT Player-0
+598	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	100	game00598.log	
+599	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	sSingMovePlayer	118	game00599.log	
+600	random	random	sSingMovePlayer	random	Player-1	random	100	game00600.log	
+601	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00601.log	
+602	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	130	game00602.log	
+603	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	114	game00603.log	
+604	s260401458	Human	Human	Human	Player-1	Human	0	game00604.log	TIMEOUT Player-0
+605	s260401458	random	random	Human	Player-1	random	0	game00605.log	TIMEOUT Player-0
+606	s260401458	Human	random	random	Player-1	Human	0	game00606.log	TIMEOUT Player-0
+607	s260401458	random	random	random	Player-0	s260401458	100	game00607.log	
+609	Greedy	Greedy	sSingMovePlayer	Greedy	Player-1	Greedy	137	game00609.log	
+614	s260401458	random	random	Human	Player-1	random	0	game00614.log	TIMEOUT Player-0
+615	s260401458	Human	random	random	Player-1	Human	0	game00615.log	TIMEOUT Player-0
+617	s260401458	Human	random	random	Player-1	Human	1	game00617.log	TIMEOUT Player-0
+618	s260401458	Human	random	random	Player-1	Human	0	game00618.log	TIMEOUT Player-0
+619	s260401458	random	Human	Human	Player-1	random	0	game00619.log	TIMEOUT Player-0
+620	s260401458	random	Human	Human	Player-1	random	0	game00620.log	TIMEOUT Player-0
+621	s260401458	Human	Human	Human	Player-1	Human	0	game00621.log	TIMEOUT Player-0
+623	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	97	game00623.log	TIMEOUT Player-0
+624	s260401458	random	random	random	Player-1	random	7	game00624.log	TIMEOUT Player-0
+625	s260401458	random	random	random	Player-1	random	2	game00625.log	TIMEOUT Player-0
+626	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	88	game00626.log	TIMEOUT Player-0
+627	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00627.log	TIMEOUT Player-0
+628	s260401458	random	random	random	Player-1	random	0	game00628.log	TIMEOUT Player-0
+629	s260401458	random	random	random	Player-1	random	0	game00629.log	TIMEOUT Player-0
+631	s260401458	random	random	random	Player-1	random	0	game00631.log	TIMEOUT Player-0
+632	s260401458	random	random	random	Player-1	random	0	game00632.log	TIMEOUT Player-0
+633	s260401458	random	random	random	Player-1	random	1	game00633.log	TIMEOUT Player-0
+634	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00634.log	TIMEOUT Player-0
+635	s260401458	random	random	random	Player-1	random	79	game00635.log	TIMEOUT Player-0
+637	s260401458	Human	Human	Human	Player-1	Human	0	game00637.log	TIMEOUT Player-0
+638	s260401458	random	random	random	Player-1	random	0	game00638.log	TIMEOUT Player-0
+639	s260401458	random	random	random	Player-1	random	0	game00639.log	TIMEOUT Player-0
+640	s260401458	Human	random	random	Player-1	Human	1	game00640.log	TIMEOUT Player-0
+641	s260401458	random	random	random	Player-1	random	0	game00641.log	TIMEOUT Player-0
+642	s260401458	random	Human	random	Player-1	random	0	game00642.log	TIMEOUT Player-0
+643	s260401458	Human	random	random	Player-1	Human	0	game00643.log	TIMEOUT Player-0
+645	s260401458	random	random	Human	Player-1	random	0	game00645.log	TIMEOUT Player-0
+646	s260401458	random	random	Human	Player-1	random	0	game00646.log	TIMEOUT Player-0
+649	s260401458	random	random	random	Player-1	random	0	game00649.log	TIMEOUT Player-0
+650	s260401458	random	random	Human	Player-1	random	0	game00650.log	TIMEOUT Player-0
+651	s260401458	random	random	random	Player-1	random	0	game00651.log	TIMEOUT Player-0
+652	s260401458	random	random	random	Player-1	random	0	game00652.log	TIMEOUT Player-0
+655	s260401458	random	random	random	Player-1	random	0	game00655.log	TIMEOUT Player-0
+656	s260401458	random	random	random	Player-1	random	0	game00656.log	TIMEOUT Player-0
+657	s260401458	Human	Human	Human	Player-1	Human	0	game00657.log	TIMEOUT Player-0
+660	s260401458	random	random	random	Player-1	random	0	game00660.log	TIMEOUT Player-0
+661	s260401458	random	random	random	Player-1	random	0	game00661.log	TIMEOUT Player-0
+662	s260401458	random	random	random	Player-1	random	0	game00662.log	TIMEOUT Player-0
+663	s260401458	Human	Human	Human	Player-1	Human	0	game00663.log	TIMEOUT Player-0
+664	s260401458	random	random	random	Player-1	random	0	game00664.log	TIMEOUT Player-0
+665	s260401458	Human	Human	Human	Player-1	Human	0	game00665.log	TIMEOUT Player-0
+666	s260401458	random	random	random	Player-1	random	0	game00666.log	TIMEOUT Player-0
+667	s260401458	Human	Human	Human	Player-1	Human	0	game00667.log	TIMEOUT Player-0
+668	s260401458	Human	Human	Human	Player-1	Human	0	game00668.log	TIMEOUT Player-0
+669	random	random	random	random	Player-1	random	100	game00669.log	
+670	s260401458	random	random	random	Player-1	random	0	game00670.log	TIMEOUT Player-0
+672	s260401458	Human	Human	Human	Player-1	Human	0	game00672.log	TIMEOUT Player-0
+673	s260401458	Human	Human	Human	Player-1	Human	0	game00673.log	TIMEOUT Player-0
+675	random	random	random	random	Player-1	random	100	game00675.log	
+677	s260401458	random	random	random	Player-1	random	0	game00677.log	TIMEOUT Player-0
+678	s260401458	random	random	Human	Player-1	random	0	game00678.log	TIMEOUT Player-0
+679	s260401458	random	random	random	Player-1	random	0	game00679.log	TIMEOUT Player-0
+683	s260401458	random	random	Human	Player-1	random	0	game00683.log	TIMEOUT Player-0
+684	s260401458	random	s260401458	Human	Player-1	random	0	game00684.log	TIMEOUT Player-0
+686	s260401458	random	random	random	Player-1	random	0	game00686.log	TIMEOUT Player-0
+692	s260401458	random	random	Human	Player-1	random	0	game00692.log	TIMEOUT Player-0
+693	s260401458	random	random	random	Player-1	random	0	game00693.log	TIMEOUT Player-0
+694	s260401458	random	random	random	Player-1	random	0	game00694.log	TIMEOUT Player-0
+695	s260401458	random	random	random	Player-1	random	0	game00695.log	TIMEOUT Player-0
+697	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00697.log	TIMEOUT Player-0
+698	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00698.log	TIMEOUT Player-0
+699	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00699.log	TIMEOUT Player-0
+704	random	random	random	random	Player-1	random	100	game00704.log	
+706	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00706.log	TIMEOUT Player-0
+709	random	random	random	random	Player-1	random	100	game00709.log	
+711	s260401458	random	random	random	Player-1	random	1	game00711.log	TIMEOUT Player-0
+712	s260401458	random	random	random	Player-1	random	1	game00712.log	TIMEOUT Player-0
+719	s260401458	random	random	random	UNDECIDED	NOBODY	2	game00719.log	USER CANCEL
+725	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00725.log	TIMEOUT Player-0
+726	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00726.log	TIMEOUT Player-0
+727	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	1	game00727.log	TIMEOUT Player-0
+728	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	116	game00728.log	
+729	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	172	game00729.log	
+730	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	110	game00730.log	
+733	s260401458	random	random	random	UNDECIDED	NOBODY	95	game00733.log	USER CANCEL
+734	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	109	game00734.log	
+735	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	111	game00735.log	
+736	s260401458	s260401458	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	0	game00736.log	TIMEOUT Player-1
+738	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	2	game00738.log	TIMEOUT Player-0
+739	s260401458	random	random	random	Player-1	random	1	game00739.log	TIMEOUT Player-0
+740	s260401458	random	random	random	Player-1	random	1	game00740.log	TIMEOUT Player-0
+743	s260401458	random	random	random	Player-1	random	1	game00743.log	ILLEGAL MOVE: Player 0 move from (C,3) to (D,4)
+749	s260401458	random	random	random	Player-1	random	2	game00749.log	TIMEOUT Player-0
+750	s260401458	random	random	random	Player-1	random	0	game00750.log	TIMEOUT Player-0
+752	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00752.log	TIMEOUT Player-0
+760	s260401458	sSingMovePlayer	Greedy	sSingMovePlayer	Player-1	sSingMovePlayer	139	game00760.log	
+761	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	11	game00761.log	TIMEOUT Player-0
+762	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	177	game00762.log	
+764	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	100	game00764.log	
+765	s260401458	random	sSingMovePlayer	sSingMovePlayer	Player-1	random	77	game00765.log	TIMEOUT Player-0
+768	s260401458	random	random	random	Player-0	s260401458	100	game00768.log	
+769	s260401458	random	random	random	Player-1	random	0	game00769.log	TIMEOUT Player-0
+770	s260401458	random	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	100	game00770.log	
+771	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	76	game00771.log	TIMEOUT Player-0
+772	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	160	game00772.log	
+773	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	114	game00773.log	
+774	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	113	game00774.log	
+775	s260401458	sSingMovePlayer	s260401458	s260401458	Player-0	s260401458	81	game00775.log	
+776	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	96	game00776.log	
+777	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	82	game00777.log	
+779	s260401458	sSingMovePlayer	sSingMovePlayer	s260401458	Player-0	s260401458	86	game00779.log	
+785	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-1	sSingMovePlayer	2	game00785.log	ILLEGAL MOVE: Player 0 end turn
+786	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-1	sSingMovePlayer	0	game00786.log	TIMEOUT Player-0
+787	s260401458	sSingMovePlayer	sSingMovePlayer	Human	Player-0	s260401458	77	game00787.log	
+792	s260401458	s260401458	sSingMovePlayer	Human	Player-1	s260401458	3	game00792.log	TIMEOUT Player-0
+793	s260401458	s260401458	sSingMovePlayer	Human	Player-1	s260401458	3	game00793.log	TIMEOUT Player-0
+794	s260401458	sSingMovePlayer	s260401458	Human	Player-0	s260401458	72	game00794.log	
+795	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	1	game00795.log	TIMEOUT Player-0
+796	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	UNDECIDED	NOBODY	12	game00796.log	USER CANCEL
+797	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	1	game00797.log	TIMEOUT Player-0
+798	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	5	game00798.log	TIMEOUT Player-0
+799	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	4	game00799.log	TIMEOUT Player-0
+800	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	95	game00800.log	TIMEOUT Player-0
+801	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	1	game00801.log	TIMEOUT Player-0
+802	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	100	game00802.log	
+803	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	5	game00803.log	TIMEOUT Player-0
+804	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	3	game00804.log	TIMEOUT Player-0
+805	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	3	game00805.log	TIMEOUT Player-0
+806	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	8	game00806.log	TIMEOUT Player-0
+807	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	21	game00807.log	TIMEOUT Player-0
+808	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	24	game00808.log	TIMEOUT Player-0
+809	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	99	game00809.log	TIMEOUT Player-0
+810	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00810.log	TIMEOUT Player-0
+811	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	98	game00811.log	TIMEOUT Player-0
+812	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	111	game00812.log	
+813	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	137	game00813.log	
+814	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00814.log	TIMEOUT Player-1
+815	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	2	game00815.log	TIMEOUT Player-0
+816	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00816.log	TIMEOUT Player-1
+817	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	114	game00817.log	
+818	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	99	game00818.log	
+819	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	2	game00819.log	ILLEGAL MOVE: Player 3 end turn
+820	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	81	game00820.log	
+821	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	113	game00821.log	
+828	s260401458	s260401458	s260401458	Human	UNDECIDED	NOBODY	1	game00828.log	USER CANCEL
+829	Human	Human	Human	Human	UNDECIDED	NOBODY	0	game00829.log	USER CANCEL
+830	Human	s260401458	s260401458	s260401458	UNDECIDED	NOBODY	12	game00830.log	USER CANCEL
+832	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	82	game00832.log	
+833	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	93	game00833.log	
+834	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00834.log	TIMEOUT Player-1
+835	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00835.log	TIMEOUT Player-1
+836	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00836.log	TIMEOUT Player-1
+837	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	84	game00837.log	
+838	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	78	game00838.log	
+839	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	85	game00839.log	
+840	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	90	game00840.log	
+841	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	83	game00841.log	
+843	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	77	game00843.log	
+847	s260401458	sSingMovePlayer	Human	s260401458	UNDECIDED	NOBODY	0	game00847.log	USER CANCEL
+849	s260401458	sSingMovePlayer	sSingMovePlayer	sSingMovePlayer	Player-1	sSingMovePlayer	0	game00849.log	TIMEOUT Player-0
+850	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00850.log	TIMEOUT Player-1
+851	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	0	game00851.log	TIMEOUT Player-1
+852	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	84	game00852.log	
+853	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	14	game00853.log	TIMEOUT Player-3
+854	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	100	game00854.log	
+855	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	19	game00855.log	ILLEGAL MOVE: Player 3 move from (J,11) to (H,9)
+856	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	20	game00856.log	ILLEGAL MOVE: Player 3 move from (N,14) to (N,12)
+857	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	23	game00857.log	ILLEGAL MOVE: Player 1 move from (C,16) to (E,14)
+858	s260401458	sSingMovePlayer	s260401458	s260401458	Player-1	sSingMovePlayer	54	game00858.log	ILLEGAL MOVE: Player 0 move from (D,1) to (F,3)
+859	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	0	game00859.log	TIMEOUT Player-0
+860	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	1	game00860.log	ILLEGAL MOVE: Player 0 end turn
+861	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	93	game00861.log	
+862	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	79	game00862.log	
+863	s260401458	s260401458	s260401458	sSingMovePlayer	Player-1	s260401458	84	game00863.log	
+864	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	127	game00864.log	
+865	s260401458	s260401458	s260401458	s260401458	Player-1	s260401458	82	game00865.log	
+866	s260401458	s260401458	s260401458	s260401458	Player-0	s260401458	82	game00866.log	
+867	s260401458	s260401458	sSingMovePlayer	sSingMovePlayer	Player-0	s260401458	137	game00867.log	
+868	s260401458	random	random	random	Player-0	s260401458	100	game00868.log	
+869	random	random	random	s260401458	Player-1	random	100	game00869.log	
+870	random	Human	Human	s260401458	UNDECIDED	NOBODY	0	game00870.log	USER CANCEL
+871	random	random	random	s260401458	Player-1	random	100	game00871.log	

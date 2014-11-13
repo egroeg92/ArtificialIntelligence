@@ -1,0 +1,36 @@
+# Server version 0.08 running on George_y410p:8123
+# Game ID: 819
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Mon Apr 07 10:31:43 PDT 2014
+# Player 1: Player-0, 's260401458', running on George_y410p
+# Player 2: Player-1, 's260401458', running on George_y410p
+# Player 3: Player-2, 's260401458', running on George_y410p
+# Player 4: Player-3, 's260401458', running on George_y410p
+START Player-0 s260401458
+START Player-1 s260401458
+START Player-2 s260401458
+START Player-3 s260401458
+0 (2,2) (3,3)
+1 (15,1) (13,3)
+1 null null
+2 (0,14) (2,12)
+2 null null
+3 (14,14) (12,12)
+3 null null
+0 (0,0) (2,2)
+0 (2,2) (4,4)
+0 null null
+1 (14,0) (12,2)
+1 null null
+2 (1,13) (3,11)
+2 null null
+3 (14,15) (12,13)
+3 (12,13) (12,11)
+3 null null
+0 (4,4) (5,5)
+1 (15,0) (14,0)
+2 (0,15) (0,14)
+GAMEOVER ILLEGAL MOVE: Player 3 end turn
+WINNER Player-1
+# Game ended: Mon Apr 07 10:31:43 PDT 2014

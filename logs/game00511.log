@@ -1,0 +1,13 @@
+# Server version 0.08 running on 142.157.68.181:8123
+# Game ID: 511
+# Board class: halma.CCBoard
+# Timeout: 100000
+# Date: Thu Apr 03 15:46:05 PDT 2014
+# Player 1: Player-0, 's260401458', running on 142.157.68.181
+# Player 2: Player-1, 'sSingMovePlayer', running on 142.157.68.181
+# Player 3: Player-2, 'sSingMovePlayer', running on 142.157.68.181
+# Player 4: Player-3, 'sSingMovePlayer', running on 142.157.68.181
+START Player-0 s260401458
+START Player-1 sSingMovePlayer
+START Player-2 sSingMovePlayer
+START Player-3 sSingMovePlayer
